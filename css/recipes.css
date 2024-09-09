@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Cambria, 'Times New Roman', sans-serif;
+    
+}
+body,html{
+    width: 70%;
+    text-align: left;
+    margin: 0 auto;
+    
+}
+
+.title{
+   
+    color: rgb(111, 102, 211);
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+img{
+    width: 80%;
+    height: 400px;
+    padding: 20px;
+    display: block;
+    margin: 0 auto;
+
+}
+
+p{
+    color: rgba(158, 22, 140, 0.833);
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+h2{
+    margin:0 auto ;
+    color: chocolate;
+    padding: 15px;
+
+}
+
+ul, ol{
+    color: darkmagenta;
+    padding: 10px;
+    background-color: lightgray;
+}
+ul li, ol li{
+    padding: 5px;
+}
+
+ol{
+    background-color: antiquewhite;
+}
